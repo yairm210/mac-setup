@@ -7,11 +7,10 @@ Tools I use on a Mac
 - [Alfred](https://www.alfredapp.com/)
 
 - Trackpad settings, ‘secondary click - click or tap with two fingers'
-- Colima - `brew install colima`, `colima start`
-To install buildkit:
+- To run dockers, Colima - `brew install colima`, `colima start`. 
+Also requires installing buildkit:
 
 ```bash
-
 ARCH=arm64
 VERSION=v0.10.4
 curl -LO https://github.com/docker/buildx/releases/download/${VERSION}/buildx-${VERSION}.darwin-${ARCH}
@@ -20,3 +19,12 @@ mv buildx-${VERSION}.darwin-${ARCH} ~/.docker/cli-plugins/docker-buildx
 chmod +x ~/.docker/cli-plugins/docker-buildx
 docker buildx version
 ```
+
+- PyCharm / IntelliJ IDEA plugins:
+  - Makefile language
+  - Rainbow Brackets (freemium)
+
+- Vscode extentions:
+  - Git Graph
+  - indent-rainbow
+  - Rainbow Brackets  
