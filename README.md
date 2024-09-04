@@ -2,7 +2,8 @@
 Tools I use on a Mac
 
 - [Iterm2](https://iterm2.com/downloads.html)
-- [Oh My Zsh](https://ohmyz.sh/#install) + [powerlevel10k](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#getting-started)
+- [Oh My Zsh](https://ohmyz.sh/#install)
+  - [powerlevel10k](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#getting-started)
 - [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?mt=12) - Calendar dropdown
 - [Alfred](https://www.alfredapp.com/)
 
@@ -19,6 +20,7 @@ mv buildx-${VERSION}.darwin-${ARCH} ~/.docker/cli-plugins/docker-buildx
 chmod +x ~/.docker/cli-plugins/docker-buildx
 docker buildx version
 ```
+
 
 - PyCharm / IntelliJ IDEA plugins:
   - Makefile language
