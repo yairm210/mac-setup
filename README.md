@@ -4,6 +4,9 @@ Tools I use on a Mac
 - [Iterm2](https://iterm2.com/downloads.html)
 - [Oh My Zsh](https://ohmyz.sh/#install)
   - [powerlevel10k](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#getting-started)
+  - in ~/.zshrc, to option+arrow navigate like normal, add
+  `bindkey "\e\e[D" backward-word`
+  `bindkey "\e\e[C" forward-word`
 - [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?mt=12) - Calendar dropdown
 - [Alfred](https://www.alfredapp.com/)
 
