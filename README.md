@@ -8,7 +8,8 @@ Tools I use on a Mac
     - `bindkey "\e\e[D" backward-word`
     - `bindkey "\e\e[C" forward-word`
 - [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?mt=12) - Calendar dropdown
-- [Alfred](https://www.alfredapp.com/)
+- [Alfred](https://www.alfredapp.com/) - better search
+- [Rectangle](https://rectangleapp.com/) - Windows-style 'move app to part of screen'
 
 - Trackpad settings, ‘secondary click - click or tap with two fingers'
 - To run dockers, Colima - `brew install colima`, `colima start`. 
