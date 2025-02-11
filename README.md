@@ -7,6 +7,7 @@ Tools I use on a Mac
   - in ~/.zshrc, to option+arrow navigate like normal, add
     - `bindkey "\e\e[D" backward-word`
     - `bindkey "\e\e[C" forward-word`
+    - `bindkey '^?' backward-kill-word`
 - [MeetingBar](https://apps.apple.com/us/app/meetingbar/id1532419400?mt=12) - Calendar dropdown
 - [Alfred](https://www.alfredapp.com/) - better search
 - [Rectangle](https://rectangleapp.com/) - Windows-style 'move app to part of screen'
